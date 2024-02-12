@@ -1,22 +1,28 @@
 # Blok3-Tech
 
+Goed verhaal, lekker kort 😭 (uitleg van Danny)
 
-hjkhkjh
 
-Goed verhaal, lekker kort 😭
+Introduction:
 
-testen
 
- quwdwbwe
+What does this webpage do and what does it mean?
 
-Inleiding
-wat eht doet en wat het us
-huisstijl
-waarom hoe en wat
-hoe mensen het gaan installeren, stap voor stap hoe run je et op een andere computer (install guides), 
+I used the following corporate style:
 
-wie hebben er aan mee gewerkt
+Why, how and what?
 
-liefst in het engels
+
+How to intall, step by step:
+
+
+How to run it on different computers:
+
+Install Guides
+ 
+
+Who worked on this webpage:
+
+
 
 licence geeft aan wat mensen er mee mogen doen. MIT licence choose a licens.com, kan je een kiezen. altijd mit als je niet weet wat. plaatjes is crwative comments om dus te gebruiken maar niet verkopen.
